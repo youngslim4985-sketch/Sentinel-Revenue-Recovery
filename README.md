@@ -28,6 +28,7 @@ Sentinel Revenue Recovery centralizes operational and financial data to help org
 
 Mission
 
+
 Help organizations reduce preventable revenue loss through visibility, automation, and intelligent decision support.
 
 ---
